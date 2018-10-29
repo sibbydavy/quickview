@@ -96,6 +96,11 @@ namespace QuickAccess
                     brdOuterArea.Background = gradient;
 
                 }
+                else
+                {
+                    TrackerDefaultStyle();
+                    TrackerDefaultPosition();
+                }
 
             }
         }
