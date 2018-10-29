@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQuickView", "MyQuickView.csproj", "{355FBBE8-95E5-4C28-AF65-A7988435B98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355FBBE8-95E5-4C28-AF65-A7988435B98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355FBBE8-95E5-4C28-AF65-A7988435B98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355FBBE8-95E5-4C28-AF65-A7988435B98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355FBBE8-95E5-4C28-AF65-A7988435B98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB3FE8A-DF88-4C97-AF71-42AC9FA4004D}
+	EndGlobalSection
+EndGlobal

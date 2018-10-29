@@ -1,0 +1,17 @@
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\ucBlock.g.cs
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\App.g.cs
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess_MarkupCompile.cache
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess_MarkupCompile.lref
+D:\MyDoc\MyQuickViewV1\MyQuickView\bin\Debug\MyQuickAccess.exe.config
+D:\MyDoc\MyQuickViewV1\MyQuickView\bin\Debug\MyQuickAccess.exe
+D:\MyDoc\MyQuickViewV1\MyQuickView\bin\Debug\MyQuickAccess.pdb
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\ucBlock.baml
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess.g.resources
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\QuickAccess.Properties.Resources.resources
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickView.csproj.GenerateResource.cache
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickView.csproj.CoreCompileInputs.cache
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess.exe
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess.pdb
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess.g.cs
+D:\MyDoc\MyQuickViewV1\MyQuickView\obj\Debug\MyQuickAccess.baml
